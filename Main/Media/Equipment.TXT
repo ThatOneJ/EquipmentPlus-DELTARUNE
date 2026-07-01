@@ -1,0 +1,36 @@
+Armors:
+
+* Revive Pin (+2 DEF, +1 MAG, Revive Turn)
+* A brooch infused with minty crystals. Revives the wearer a turn after they fall.
+
+* ChaosSpecs (+2 ATK, +6 DEF, +6 MAG, Chaos Deal)
+* Two unwilling companions, fused into something greater. Randomly swaps party's HP.
+
+* Dark Band (+1 DF, TP gain UP)
+* A band that shines in the darkness. More TP from FIGHTing, DEFENDing and grazing.
+
+* Mana Band (+4 ATK, +4 MAG)
+* A silver armlet with shifting flavors. Increases both strength and magic.
+
+* Justice Shell (+7 DEF, ???)
+* An old, but trusty armor. You played safe to get it, but that doesn't mean any less!
+
+
+Weapons:
+
+* NoseBlade (+7 ATK, Crit Bonus)
+* A spare nose sharp enough to be a sword. Gives POINTs for critical attacks. 
+
+* CheerScarf (+3 ATK, +1 MAG, Smiley)
+* A blue scarf with you-can-do-it imagery. Downed allies heal faster.
+
+
+Fusions:
+
+* Revive Mint + Royal Pin = Revive Pin
+
+* Clubs Sandwich + Broken Sword = Trefoil
+
+* Jevilstail + Dealmaker = ChaosSpecs
+
+* Mystic Band + Power Band = Mana Band

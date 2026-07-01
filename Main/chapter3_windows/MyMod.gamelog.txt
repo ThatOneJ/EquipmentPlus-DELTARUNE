@@ -1,0 +1,1627 @@
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2022.0(3)[r115]    *
+***************************************	 
+RunnerLoadGame: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\
+#########################################################################
+RunnerLoadGame() - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+YYG Game launching. Game file: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Checking if INIFile exists at C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini
+INIFile C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini Exists, loading....
+Reading File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Loaded File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp(126317224)
+IFF wad found
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\cris_\AppData\Local\DELTARUNE\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Resizing swap chain...
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 0000000002A64060, 126317224
+Process Chunk: GEN8   1184  (0.00MB)
+Process Chunk: OPTN   88  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   56  (0.00MB)
+Process Chunk: SOND   20696  (0.02MB)
+Audio_Load()
+Process Chunk: AGRP   24  (0.00MB)
+AudioGroup_Load()
+Process Chunk: SPRT   702184  (0.67MB)
+Process Chunk: BGND   57144  (0.05MB)
+Process Chunk: PATH   2632  (0.00MB)
+Process Chunk: SCPT   31592  (0.03MB)
+Process Chunk: GLOB   3912  (0.00MB)
+Process Chunk: SHDR   105112  (0.10MB)
+Process Chunk: FONT   318488  (0.30MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   760792  (0.73MB)
+Process Chunk: FEDS   8  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   5864  (0.01MB)
+Process Chunk: ROOM   3878984  (3.70MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: TPAG   380600  (0.36MB)
+Process Chunk: TGIN   20776  (0.02MB)
+Process Chunk: CODE   7114760  (6.79MB)
+Process Chunk: VARI   560136  (0.53MB)
+Process Chunk: FUNC   213784  (0.20MB)
+Process Chunk: FEAT   40  (0.00MB)
+Process Chunk: STRG   2559896  (2.44MB)
+Process Chunk: TXTR   22135704  (21.11MB)
+Process Chunk: AUDO   87442432  (83.39MB)
+Audio_WAVs()
+PrepareGame()
+Script_Prepare() 
+TimeLine_Prepare() 
+Object_Prepare() 
+Preparing 1733 objects:
+Room_Prepare() 
+InitGraphics() 
+Finished PrepareGame() 
+Run_Start
+Audio group 1 -> Loading...
+Audio_WAVs()
+Audio group 1 -> Loaded
+Pause event has been registered for this frame
+audio_create_stream : could not file file 'mus/legend.ogg'
+Error: No sound found for asset index -1
+Pause event has been unregistered
+Resizing swap chain...
+Resizing window...Unsetting previous scheduler resolution of 1
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2022.0(3)[r115]    *
+***************************************	 
+RunnerLoadGame: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\
+#########################################################################
+RunnerLoadGame() - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+YYG Game launching. Game file: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Checking if INIFile exists at C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini
+INIFile C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini Exists, loading....
+Reading File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Loaded File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp(126317480)
+IFF wad found
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\cris_\AppData\Local\DELTARUNE\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Resizing swap chain...
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 0000000002ACC060, 126317480
+Process Chunk: GEN8   1184  (0.00MB)
+Process Chunk: OPTN   88  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   56  (0.00MB)
+Process Chunk: SOND   20696  (0.02MB)
+Audio_Load()
+Process Chunk: AGRP   24  (0.00MB)
+AudioGroup_Load()
+Process Chunk: SPRT   702184  (0.67MB)
+Process Chunk: BGND   57144  (0.05MB)
+Process Chunk: PATH   2632  (0.00MB)
+Process Chunk: SCPT   31592  (0.03MB)
+Process Chunk: GLOB   3912  (0.00MB)
+Process Chunk: SHDR   105112  (0.10MB)
+Process Chunk: FONT   318488  (0.30MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   760872  (0.73MB)
+Process Chunk: FEDS   8  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   5864  (0.01MB)
+Process Chunk: ROOM   3878984  (3.70MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: TPAG   380600  (0.36MB)
+Process Chunk: TGIN   20776  (0.02MB)
+Process Chunk: CODE   7114840  (6.79MB)
+Process Chunk: VARI   560136  (0.53MB)
+Process Chunk: FUNC   213800  (0.20MB)
+Process Chunk: FEAT   40  (0.00MB)
+Process Chunk: STRG   2559976  (2.44MB)
+Process Chunk: TXTR   22135704  (21.11MB)
+Process Chunk: AUDO   87442432  (83.39MB)
+Audio_WAVs()
+PrepareGame()
+Script_Prepare() 
+TimeLine_Prepare() 
+Object_Prepare() 
+Preparing 1733 objects:
+Room_Prepare() 
+InitGraphics() 
+Finished PrepareGame() 
+Run_Start
+Audio group 1 -> Loading...
+Audio_WAVs()
+Audio group 1 -> Loaded
+audio_create_stream : could not file file 'mus/legend.ogg'
+Error: No sound found for asset index -1
+Resizing swap chain...
+Resizing window...audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/AUDIO_STORY.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/tv_results_screen.ogg'
+Error: No sound found for asset index -1
+Unsetting previous scheduler resolution of 1
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2022.0(3)[r115]    *
+***************************************	 
+RunnerLoadGame: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\
+#########################################################################
+RunnerLoadGame() - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+YYG Game launching. Game file: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Checking if INIFile exists at C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini
+INIFile C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini Exists, loading....
+Reading File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Loaded File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp(126317480)
+IFF wad found
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\cris_\AppData\Local\DELTARUNE\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Resizing swap chain...
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 00000000029E8060, 126317480
+Process Chunk: GEN8   1184  (0.00MB)
+Process Chunk: OPTN   88  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   56  (0.00MB)
+Process Chunk: SOND   20696  (0.02MB)
+Audio_Load()
+Process Chunk: AGRP   24  (0.00MB)
+AudioGroup_Load()
+Process Chunk: SPRT   702184  (0.67MB)
+Process Chunk: BGND   57144  (0.05MB)
+Process Chunk: PATH   2632  (0.00MB)
+Process Chunk: SCPT   31576  (0.03MB)
+Process Chunk: GLOB   3912  (0.00MB)
+Process Chunk: SHDR   105112  (0.10MB)
+Process Chunk: FONT   318488  (0.30MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   760936  (0.73MB)
+Process Chunk: FEDS   8  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   5864  (0.01MB)
+Process Chunk: ROOM   3878984  (3.70MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: TPAG   380600  (0.36MB)
+Process Chunk: TGIN   20776  (0.02MB)
+Process Chunk: CODE   7114808  (6.79MB)
+Process Chunk: VARI   560136  (0.53MB)
+Process Chunk: FUNC   213816  (0.20MB)
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2022.0(3)[r115]    *
+***************************************	 
+RunnerLoadGame: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\
+#########################################################################
+RunnerLoadGame() - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+YYG Game launching. Game file: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Checking if INIFile exists at C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini
+INIFile C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini Exists, loading....
+Reading File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Loaded File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp(126317480)
+IFF wad found
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\cris_\AppData\Local\DELTARUNE\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Resizing swap chain...
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 0000000002AEE060, 126317480
+Process Chunk: GEN8   1184  (0.00MB)
+Process Chunk: OPTN   88  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   56  (0.00MB)
+Process Chunk: SOND   20696  (0.02MB)
+Audio_Load()
+Process Chunk: AGRP   24  (0.00MB)
+AudioGroup_Load()
+Process Chunk: SPRT   702184  (0.67MB)
+Process Chunk: BGND   57144  (0.05MB)
+Process Chunk: PATH   2632  (0.00MB)
+Process Chunk: SCPT   31576  (0.03MB)
+Process Chunk: GLOB   3912  (0.00MB)
+Process Chunk: SHDR   105112  (0.10MB)
+Process Chunk: FONT   318488  (0.30MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   760936  (0.73MB)
+Process Chunk: FEDS   8  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   5864  (0.01MB)
+Process Chunk: ROOM   3878984  (3.70MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: TPAG   380600  (0.36MB)
+Process Chunk: TGIN   20776  (0.02MB)
+Process Chunk: CODE   7114808  (6.79MB)
+Process Chunk: VARI   560136  (0.53MB)
+Process Chunk: FUNC   213816  (0.20MB)
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2022.0(3)[r115]    *
+***************************************	 
+RunnerLoadGame: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\
+#########################################################################
+RunnerLoadGame() - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+YYG Game launching. Game file: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Checking if INIFile exists at C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini
+INIFile C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini Exists, loading....
+Reading File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Loaded File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp(126317480)
+IFF wad found
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\cris_\AppData\Local\DELTARUNE\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Resizing swap chain...
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 0000000002A5B060, 126317480
+Process Chunk: GEN8   1184  (0.00MB)
+Process Chunk: OPTN   88  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   56  (0.00MB)
+Process Chunk: SOND   20696  (0.02MB)
+Audio_Load()
+Process Chunk: AGRP   24  (0.00MB)
+AudioGroup_Load()
+Process Chunk: SPRT   702184  (0.67MB)
+Process Chunk: BGND   57144  (0.05MB)
+Process Chunk: PATH   2632  (0.00MB)
+Process Chunk: SCPT   31576  (0.03MB)
+Process Chunk: GLOB   3912  (0.00MB)
+Process Chunk: SHDR   105112  (0.10MB)
+Process Chunk: FONT   318488  (0.30MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   760936  (0.73MB)
+Process Chunk: FEDS   8  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   5864  (0.01MB)
+Process Chunk: ROOM   3878984  (3.70MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: TPAG   380600  (0.36MB)
+Process Chunk: TGIN   20776  (0.02MB)
+Process Chunk: CODE   7114792  (6.79MB)
+Process Chunk: VARI   560136  (0.53MB)
+Process Chunk: FUNC   213816  (0.20MB)
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2022.0(3)[r115]    *
+***************************************	 
+RunnerLoadGame: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\
+#########################################################################
+RunnerLoadGame() - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+YYG Game launching. Game file: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Checking if INIFile exists at C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini
+INIFile C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini Exists, loading....
+Reading File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Loaded File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp(126317352)
+IFF wad found
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\cris_\AppData\Local\DELTARUNE\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Resizing swap chain...
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 000000000297D060, 126317352
+Process Chunk: GEN8   1184  (0.00MB)
+Process Chunk: OPTN   88  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   56  (0.00MB)
+Process Chunk: SOND   20696  (0.02MB)
+Audio_Load()
+Process Chunk: AGRP   24  (0.00MB)
+AudioGroup_Load()
+Process Chunk: SPRT   702184  (0.67MB)
+Process Chunk: BGND   57144  (0.05MB)
+Process Chunk: PATH   2632  (0.00MB)
+Process Chunk: SCPT   31576  (0.03MB)
+Process Chunk: GLOB   3912  (0.00MB)
+Process Chunk: SHDR   105112  (0.10MB)
+Process Chunk: FONT   318488  (0.30MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   760872  (0.73MB)
+Process Chunk: FEDS   8  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   5864  (0.01MB)
+Process Chunk: ROOM   3878984  (3.70MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: TPAG   380600  (0.36MB)
+Process Chunk: TGIN   20776  (0.02MB)
+Process Chunk: CODE   7114760  (6.79MB)
+Process Chunk: VARI   560136  (0.53MB)
+Process Chunk: FUNC   213800  (0.20MB)
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2022.0(3)[r115]    *
+***************************************	 
+RunnerLoadGame: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\
+#########################################################################
+RunnerLoadGame() - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+YYG Game launching. Game file: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Checking if INIFile exists at C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini
+INIFile C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini Exists, loading....
+Reading File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Loaded File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp(126326184)
+IFF wad found
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\cris_\AppData\Local\DELTARUNE\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Resizing swap chain...
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 0000000002AA3060, 126326184
+Process Chunk: GEN8   1184  (0.00MB)
+Process Chunk: OPTN   88  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   56  (0.00MB)
+Process Chunk: SOND   20696  (0.02MB)
+Audio_Load()
+Process Chunk: AGRP   24  (0.00MB)
+AudioGroup_Load()
+Process Chunk: SPRT   702184  (0.67MB)
+Process Chunk: BGND   57144  (0.05MB)
+Process Chunk: PATH   2632  (0.00MB)
+Process Chunk: SCPT   31592  (0.03MB)
+Process Chunk: GLOB   3912  (0.00MB)
+Process Chunk: SHDR   105112  (0.10MB)
+Process Chunk: FONT   318488  (0.30MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   761576  (0.73MB)
+Process Chunk: FEDS   8  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   5864  (0.01MB)
+Process Chunk: ROOM   3879032  (3.70MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: TPAG   380600  (0.36MB)
+Process Chunk: TGIN   20776  (0.02MB)
+Process Chunk: CODE   7120968  (6.79MB)
+Process Chunk: VARI   560680  (0.53MB)
+Process Chunk: FUNC   213944  (0.20MB)
+Process Chunk: FEAT   40  (0.00MB)
+Process Chunk: STRG   2561112  (2.44MB)
+Process Chunk: TXTR   22135704  (21.11MB)
+Process Chunk: AUDO   87442432  (83.39MB)
+Audio_WAVs()
+PrepareGame()
+Script_Prepare() 
+TimeLine_Prepare() 
+Object_Prepare() 
+Preparing 1734 objects:
+Room_Prepare() 
+InitGraphics() 
+Finished PrepareGame() 
+Run_Start
+Audio group 1 -> Loading...
+Audio_WAVs()
+Audio group 1 -> Loaded
+audio_create_stream : could not file file 'mus/legend.ogg'
+Error: No sound found for asset index -1
+Resizing swap chain...
+Resizing window...audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/AUDIO_STORY.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/tv_results_screen.ogg'
+Error: No sound found for asset index -1
+audio_create_stream : could not file file 'mus/trank.ogg'
+Error: No sound found for asset index -1
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2022.0(3)[r115]    *
+***************************************	 
+RunnerLoadGame: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\
+#########################################################################
+RunnerLoadGame() - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+YYG Game launching. Game file: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Checking if INIFile exists at C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini
+INIFile C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini Exists, loading....
+Reading File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Loaded File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp(126326184)
+IFF wad found
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\cris_\AppData\Local\DELTARUNE\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Resizing swap chain...
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 0000000002B74060, 126326184
+Process Chunk: GEN8   1184  (0.00MB)
+Process Chunk: OPTN   88  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   56  (0.00MB)
+Process Chunk: SOND   20696  (0.02MB)
+Audio_Load()
+Process Chunk: AGRP   24  (0.00MB)
+AudioGroup_Load()
+Process Chunk: SPRT   702184  (0.67MB)
+Process Chunk: BGND   57144  (0.05MB)
+Process Chunk: PATH   2632  (0.00MB)
+Process Chunk: SCPT   31592  (0.03MB)
+Process Chunk: GLOB   3912  (0.00MB)
+Process Chunk: SHDR   105112  (0.10MB)
+Process Chunk: FONT   318488  (0.30MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   761576  (0.73MB)
+Process Chunk: FEDS   8  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   5864  (0.01MB)
+Process Chunk: ROOM   3879032  (3.70MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: TPAG   380600  (0.36MB)
+Process Chunk: TGIN   20776  (0.02MB)
+Process Chunk: CODE   7120968  (6.79MB)
+Process Chunk: VARI   560680  (0.53MB)
+Process Chunk: FUNC   213944  (0.20MB)
+Process Chunk: FEAT   40  (0.00MB)
+Process Chunk: STRG   2561112  (2.44MB)
+Process Chunk: TXTR   22135704  (21.11MB)
+Process Chunk: AUDO   87442432  (83.39MB)
+Audio_WAVs()
+PrepareGame()
+Script_Prepare() 
+TimeLine_Prepare() 
+Object_Prepare() 
+Preparing 1734 objects:
+Room_Prepare() 
+InitGraphics() 
+Finished PrepareGame() 
+Run_Start
+Audio group 1 -> Loading...
+Audio_WAVs()
+Audio group 1 -> Loaded
+Pause event has been registered for this frame
+audio_create_stream : could not file file 'mus/legend.ogg'
+Error: No sound found for asset index -1
+Pause event has been unregistered
+Resizing swap chain...
+Resizing window...audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/AUDIO_STORY.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/tv_results_screen.ogg'
+Error: No sound found for asset index -1
+audio_create_stream : could not file file 'mus/trank.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/tv_results_screen.ogg'
+Error: No sound found for asset index -1
+audio_create_stream : could not file file 'mus/tv_results_screen.ogg'
+Error: No sound found for asset index -1
+audio_create_stream : could not file file 'mus/tv_results_screen.ogg'
+Error: No sound found for asset index -1
+audio_create_stream : could not file file 'mus/tv_results_screen.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/tv_world.ogg'
+Error: No sound found for asset index -1
+audio_create_stream : could not file file 'mus/berdly_audience.ogg'
+audio_create_stream : could not file file 'mus/berdly_audience.ogg'
+audio_create_stream : could not file file 'mus/berdly_audience.ogg'
+audio_create_stream : could not file file 'mus/battle.ogg'
+Error: No sound found for asset index -1
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/berdly_audience.ogg'
+audio_create_stream : could not file file 'mus/berdly_audience.ogg'
+Pause event has been registered for this frame
+Pause event has been unregistered
+audio_create_stream : could not file file 'mus/battle.ogg'
+Error: No sound found for asset index -1
+Pause event has been registered for this frame
+Pause event has been unregistered
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+Pause event has been registered for this frame
+Pause event has been unregistered
+audio_create_stream : could not file file 'mus/legend.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+Pause event has been registered for this frame
+Pause event has been unregistered
+audio_create_stream : could not file file 'mus/AUDIO_STORY.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/tv_results_screen.ogg'
+Error: No sound found for asset index -1
+audio_create_stream : could not file file 'mus/trank.ogg'
+Error: No sound found for asset index -1
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+audio_create_stream : could not file file 'mus/tv_results_screen.ogg'
+Error: No sound found for asset index -1
+audio_create_stream : could not file file 'mus/tv_results_screen.ogg'
+Error: No sound found for asset index -1
+audio_create_stream : could not file file 'mus/tv_results_screen.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/tv_world.ogg'
+Error: No sound found for asset index -1
+audio_create_stream : could not file file 'mus/berdly_audience.ogg'
+Pause event has been registered for this frame
+Pause event has been unregistered
+audio_create_stream : could not file file 'mus/berdly_audience.ogg'
+audio_create_stream : could not file file 'mus/berdly_audience.ogg'
+audio_create_stream : could not file file 'mus/battle.ogg'
+Error: No sound found for asset index -1
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+Pause event has been registered for this frame
+Pause event has been unregistered
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2022.0(3)[r115]    *
+***************************************	 
+RunnerLoadGame: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\
+#########################################################################
+RunnerLoadGame() - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+YYG Game launching. Game file: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Checking if INIFile exists at C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini
+INIFile C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini Exists, loading....
+Reading File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Loaded File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp(126326184)
+IFF wad found
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\cris_\AppData\Local\DELTARUNE\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Resizing swap chain...
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 0000000002B4A060, 126326184
+Process Chunk: GEN8   1184  (0.00MB)
+Process Chunk: OPTN   88  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   56  (0.00MB)
+Process Chunk: SOND   20696  (0.02MB)
+Audio_Load()
+Process Chunk: AGRP   24  (0.00MB)
+AudioGroup_Load()
+Process Chunk: SPRT   702184  (0.67MB)
+Process Chunk: BGND   57144  (0.05MB)
+Process Chunk: PATH   2632  (0.00MB)
+Process Chunk: SCPT   31592  (0.03MB)
+Process Chunk: GLOB   3912  (0.00MB)
+Process Chunk: SHDR   105112  (0.10MB)
+Process Chunk: FONT   318488  (0.30MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   761576  (0.73MB)
+Process Chunk: FEDS   8  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   5864  (0.01MB)
+Process Chunk: ROOM   3879032  (3.70MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: TPAG   380600  (0.36MB)
+Process Chunk: TGIN   20776  (0.02MB)
+Process Chunk: CODE   7120968  (6.79MB)
+Process Chunk: VARI   560696  (0.53MB)
+Process Chunk: FUNC   213944  (0.20MB)
+Process Chunk: FEAT   40  (0.00MB)
+Process Chunk: STRG   2561096  (2.44MB)
+Process Chunk: TXTR   22135704  (21.11MB)
+Process Chunk: AUDO   87442432  (83.39MB)
+Audio_WAVs()
+PrepareGame()
+Script_Prepare() 
+TimeLine_Prepare() 
+Object_Prepare() 
+Preparing 1734 objects:
+Room_Prepare() 
+InitGraphics() 
+Finished PrepareGame() 
+Run_Start
+Audio group 1 -> Loading...
+Audio_WAVs()
+Audio group 1 -> Loaded
+audio_create_stream : could not file file 'mus/legend.ogg'
+Error: No sound found for asset index -1
+Resizing swap chain...
+Resizing window...audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/AUDIO_STORY.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/tv_results_screen.ogg'
+Error: No sound found for asset index -1
+Unsetting previous scheduler resolution of 1
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2022.0(3)[r115]    *
+***************************************	 
+RunnerLoadGame: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\
+#########################################################################
+RunnerLoadGame() - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+YYG Game launching. Game file: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Checking if INIFile exists at C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini
+INIFile C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini Exists, loading....
+Reading File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Loaded File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp(126326568)
+IFF wad found
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\cris_\AppData\Local\DELTARUNE\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Resizing swap chain...
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 0000000002B3F060, 126326568
+Process Chunk: GEN8   1184  (0.00MB)
+Process Chunk: OPTN   88  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   56  (0.00MB)
+Process Chunk: SOND   20696  (0.02MB)
+Audio_Load()
+Process Chunk: AGRP   24  (0.00MB)
+AudioGroup_Load()
+Process Chunk: SPRT   702184  (0.67MB)
+Process Chunk: BGND   57144  (0.05MB)
+Process Chunk: PATH   2632  (0.00MB)
+Process Chunk: SCPT   31592  (0.03MB)
+Process Chunk: GLOB   3912  (0.00MB)
+Process Chunk: SHDR   105112  (0.10MB)
+Process Chunk: FONT   318488  (0.30MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   761576  (0.73MB)
+Process Chunk: FEDS   8  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   5864  (0.01MB)
+Process Chunk: ROOM   3879032  (3.70MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: TPAG   380600  (0.36MB)
+Process Chunk: TGIN   20776  (0.02MB)
+Process Chunk: CODE   7121352  (6.79MB)
+Process Chunk: VARI   560712  (0.53MB)
+Process Chunk: FUNC   213960  (0.20MB)
+Process Chunk: FEAT   40  (0.00MB)
+Process Chunk: STRG   2561064  (2.44MB)
+Process Chunk: TXTR   22135704  (21.11MB)
+Process Chunk: AUDO   87442432  (83.39MB)
+Audio_WAVs()
+PrepareGame()
+Script_Prepare() 
+TimeLine_Prepare() 
+Object_Prepare() 
+Preparing 1734 objects:
+Room_Prepare() 
+InitGraphics() 
+Finished PrepareGame() 
+Run_Start
+Audio group 1 -> Loading...
+Audio_WAVs()
+Audio group 1 -> Loaded
+audio_create_stream : could not file file 'mus/legend.ogg'
+Error: No sound found for asset index -1
+Resizing swap chain...
+Resizing window...audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/AUDIO_STORY.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/tv_results_screen.ogg'
+Error: No sound found for asset index -1
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Unsetting previous scheduler resolution of 1
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2022.0(3)[r115]    *
+***************************************	 
+RunnerLoadGame: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\
+#########################################################################
+RunnerLoadGame() - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+YYG Game launching. Game file: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Checking if INIFile exists at C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini
+INIFile C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini Exists, loading....
+Reading File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Loaded File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp(126326568)
+IFF wad found
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\cris_\AppData\Local\DELTARUNE\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Resizing swap chain...
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 0000000002ABE060, 126326568
+Process Chunk: GEN8   1184  (0.00MB)
+Process Chunk: OPTN   88  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   56  (0.00MB)
+Process Chunk: SOND   20696  (0.02MB)
+Audio_Load()
+Process Chunk: AGRP   24  (0.00MB)
+AudioGroup_Load()
+Process Chunk: SPRT   702184  (0.67MB)
+Process Chunk: BGND   57144  (0.05MB)
+Process Chunk: PATH   2632  (0.00MB)
+Process Chunk: SCPT   31592  (0.03MB)
+Process Chunk: GLOB   3912  (0.00MB)
+Process Chunk: SHDR   105112  (0.10MB)
+Process Chunk: FONT   318488  (0.30MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   761576  (0.73MB)
+Process Chunk: FEDS   8  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   5864  (0.01MB)
+Process Chunk: ROOM   3879032  (3.70MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: TPAG   380600  (0.36MB)
+Process Chunk: TGIN   20776  (0.02MB)
+Process Chunk: CODE   7121352  (6.79MB)
+Process Chunk: VARI   560712  (0.53MB)
+Process Chunk: FUNC   213960  (0.20MB)
+Process Chunk: FEAT   40  (0.00MB)
+Process Chunk: STRG   2561064  (2.44MB)
+Process Chunk: TXTR   22135704  (21.11MB)
+Process Chunk: AUDO   87442432  (83.39MB)
+Audio_WAVs()
+PrepareGame()
+Script_Prepare() 
+TimeLine_Prepare() 
+Object_Prepare() 
+Preparing 1734 objects:
+Room_Prepare() 
+InitGraphics() 
+Finished PrepareGame() 
+Run_Start
+Audio group 1 -> Loading...
+Audio_WAVs()
+Audio group 1 -> Loaded
+audio_create_stream : could not file file 'mus/legend.ogg'
+Error: No sound found for asset index -1
+Resizing swap chain...
+Resizing window...Pause event has been registered for this frame
+Pause event has been unregistered
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/AUDIO_STORY.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/tv_results_screen.ogg'
+Error: No sound found for asset index -1
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Unsetting previous scheduler resolution of 1
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2022.0(3)[r115]    *
+***************************************	 
+RunnerLoadGame: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\
+#########################################################################
+RunnerLoadGame() - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+YYG Game launching. Game file: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Checking if INIFile exists at C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini
+INIFile C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini Exists, loading....
+Reading File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Loaded File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp(126326568)
+IFF wad found
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\cris_\AppData\Local\DELTARUNE\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Resizing swap chain...
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 0000000002BA4060, 126326568
+Process Chunk: GEN8   1184  (0.00MB)
+Process Chunk: OPTN   88  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   56  (0.00MB)
+Process Chunk: SOND   20696  (0.02MB)
+Audio_Load()
+Process Chunk: AGRP   24  (0.00MB)
+AudioGroup_Load()
+Process Chunk: SPRT   702184  (0.67MB)
+Process Chunk: BGND   57144  (0.05MB)
+Process Chunk: PATH   2632  (0.00MB)
+Process Chunk: SCPT   31592  (0.03MB)
+Process Chunk: GLOB   3912  (0.00MB)
+Process Chunk: SHDR   105112  (0.10MB)
+Process Chunk: FONT   318488  (0.30MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   761576  (0.73MB)
+Process Chunk: FEDS   8  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   5864  (0.01MB)
+Process Chunk: ROOM   3879032  (3.70MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: TPAG   380600  (0.36MB)
+Process Chunk: TGIN   20776  (0.02MB)
+Process Chunk: CODE   7121352  (6.79MB)
+Process Chunk: VARI   560712  (0.53MB)
+Process Chunk: FUNC   213960  (0.20MB)
+Process Chunk: FEAT   40  (0.00MB)
+Process Chunk: STRG   2561064  (2.44MB)
+Process Chunk: TXTR   22135704  (21.11MB)
+Process Chunk: AUDO   87442432  (83.39MB)
+Audio_WAVs()
+PrepareGame()
+Script_Prepare() 
+TimeLine_Prepare() 
+Object_Prepare() 
+Preparing 1734 objects:
+Room_Prepare() 
+InitGraphics() 
+Finished PrepareGame() 
+Run_Start
+Audio group 1 -> Loading...
+Audio_WAVs()
+Audio group 1 -> Loaded
+audio_create_stream : could not file file 'mus/legend.ogg'
+Error: No sound found for asset index -1
+Resizing swap chain...
+Resizing window...audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/AUDIO_STORY.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/tv_results_screen.ogg'
+Error: No sound found for asset index -1
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2022.0(3)[r115]    *
+***************************************	 
+RunnerLoadGame: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\
+#########################################################################
+RunnerLoadGame() - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+YYG Game launching. Game file: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Checking if INIFile exists at C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini
+INIFile C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini Exists, loading....
+Reading File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Loaded File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp(126326696)
+IFF wad found
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\cris_\AppData\Local\DELTARUNE\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Resizing swap chain...
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 0000000002AD7060, 126326696
+Process Chunk: GEN8   1184  (0.00MB)
+Process Chunk: OPTN   88  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   56  (0.00MB)
+Process Chunk: SOND   20696  (0.02MB)
+Audio_Load()
+Process Chunk: AGRP   24  (0.00MB)
+AudioGroup_Load()
+Process Chunk: SPRT   702184  (0.67MB)
+Process Chunk: BGND   57144  (0.05MB)
+Process Chunk: PATH   2632  (0.00MB)
+Process Chunk: SCPT   31592  (0.03MB)
+Process Chunk: GLOB   3912  (0.00MB)
+Process Chunk: SHDR   105112  (0.10MB)
+Process Chunk: FONT   318488  (0.30MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   761576  (0.73MB)
+Process Chunk: FEDS   8  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   5864  (0.01MB)
+Process Chunk: ROOM   3879032  (3.70MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: TPAG   380600  (0.36MB)
+Process Chunk: TGIN   20776  (0.02MB)
+Process Chunk: CODE   7121368  (6.79MB)
+Process Chunk: VARI   560712  (0.53MB)
+Process Chunk: FUNC   213960  (0.20MB)
+Process Chunk: FEAT   40  (0.00MB)
+Process Chunk: STRG   2561176  (2.44MB)
+Process Chunk: TXTR   22135704  (21.11MB)
+Process Chunk: AUDO   87442432  (83.39MB)
+Audio_WAVs()
+PrepareGame()
+Script_Prepare() 
+TimeLine_Prepare() 
+Object_Prepare() 
+Preparing 1734 objects:
+Room_Prepare() 
+InitGraphics() 
+Finished PrepareGame() 
+Run_Start
+Audio group 1 -> Loading...
+Audio_WAVs()
+Audio group 1 -> Loaded
+audio_create_stream : could not file file 'mus/legend.ogg'
+Error: No sound found for asset index -1
+Resizing swap chain...
+Resizing window...audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/AUDIO_STORY.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/tv_results_screen.ogg'
+Error: No sound found for asset index -1
+audio_create_stream : could not file file 'mus/tv_results_screen.ogg'
+Error: No sound found for asset index -1
+Pause event has been registered for this frame
+Pause event has been unregistered
+Unsetting previous scheduler resolution of 1
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2022.0(3)[r115]    *
+***************************************	 
+RunnerLoadGame: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\
+#########################################################################
+RunnerLoadGame() - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+YYG Game launching. Game file: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Checking if INIFile exists at C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini
+INIFile C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini Exists, loading....
+Reading File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Loaded File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp(126326696)
+IFF wad found
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\cris_\AppData\Local\DELTARUNE\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Resizing swap chain...
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 0000000002B59060, 126326696
+Process Chunk: GEN8   1184  (0.00MB)
+Process Chunk: OPTN   88  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   56  (0.00MB)
+Process Chunk: SOND   20696  (0.02MB)
+Audio_Load()
+Process Chunk: AGRP   24  (0.00MB)
+AudioGroup_Load()
+Process Chunk: SPRT   702184  (0.67MB)
+Process Chunk: BGND   57144  (0.05MB)
+Process Chunk: PATH   2632  (0.00MB)
+Process Chunk: SCPT   31592  (0.03MB)
+Process Chunk: GLOB   3912  (0.00MB)
+Process Chunk: SHDR   105112  (0.10MB)
+Process Chunk: FONT   318488  (0.30MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   761576  (0.73MB)
+Process Chunk: FEDS   8  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   5864  (0.01MB)
+Process Chunk: ROOM   3879032  (3.70MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: TPAG   380600  (0.36MB)
+Process Chunk: TGIN   20776  (0.02MB)
+Process Chunk: CODE   7121368  (6.79MB)
+Process Chunk: VARI   560712  (0.53MB)
+Process Chunk: FUNC   213960  (0.20MB)
+Process Chunk: FEAT   40  (0.00MB)
+Process Chunk: STRG   2561176  (2.44MB)
+Process Chunk: TXTR   22135704  (21.11MB)
+Process Chunk: AUDO   87442432  (83.39MB)
+Audio_WAVs()
+PrepareGame()
+Script_Prepare() 
+TimeLine_Prepare() 
+Object_Prepare() 
+Preparing 1734 objects:
+Room_Prepare() 
+InitGraphics() 
+Finished PrepareGame() 
+Run_Start
+Audio group 1 -> Loading...
+Audio_WAVs()
+Audio group 1 -> Loaded
+audio_create_stream : could not file file 'mus/legend.ogg'
+Error: No sound found for asset index -1
+Resizing swap chain...
+Resizing window...Unsetting previous scheduler resolution of 1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/AUDIO_STORY.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/tv_results_screen.ogg'
+Error: No sound found for asset index -1
+audio_create_stream : could not file file 'mus/tv_results_screen.ogg'
+Error: No sound found for asset index -1
+Unsetting previous scheduler resolution of 1
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2022.0(3)[r115]    *
+***************************************	 
+RunnerLoadGame: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\
+#########################################################################
+RunnerLoadGame() - C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+YYG Game launching. Game file: C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Checking if INIFile exists at C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini
+INIFile C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows/options.ini Exists, loading....
+Reading File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp
+Loaded File C:\Users\cris_\OneDrive\Área de Trabalho\Equipment Plus - DELTARUNE\chapter3_windows\MyMod.temp(126326696)
+IFF wad found
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\cris_\AppData\Local\DELTARUNE\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Resizing swap chain...
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 0000000002A67060, 126326696
+Process Chunk: GEN8   1184  (0.00MB)
+Process Chunk: OPTN   88  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   56  (0.00MB)
+Process Chunk: SOND   20696  (0.02MB)
+Audio_Load()
+Process Chunk: AGRP   24  (0.00MB)
+AudioGroup_Load()
+Process Chunk: SPRT   702184  (0.67MB)
+Process Chunk: BGND   57144  (0.05MB)
+Process Chunk: PATH   2632  (0.00MB)
+Process Chunk: SCPT   31592  (0.03MB)
+Process Chunk: GLOB   3912  (0.00MB)
+Process Chunk: SHDR   105112  (0.10MB)
+Process Chunk: FONT   318488  (0.30MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   761576  (0.73MB)
+Process Chunk: FEDS   8  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   5864  (0.01MB)
+Process Chunk: ROOM   3879032  (3.70MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: TPAG   380600  (0.36MB)
+Process Chunk: TGIN   20776  (0.02MB)
+Process Chunk: CODE   7121368  (6.79MB)
+Process Chunk: VARI   560712  (0.53MB)
+Process Chunk: FUNC   213960  (0.20MB)
+Process Chunk: FEAT   40  (0.00MB)
+Process Chunk: STRG   2561176  (2.44MB)
+Process Chunk: TXTR   22135704  (21.11MB)
+Process Chunk: AUDO   87442432  (83.39MB)
+Audio_WAVs()
+PrepareGame()
+Script_Prepare() 
+TimeLine_Prepare() 
+Object_Prepare() 
+Preparing 1734 objects:
+Room_Prepare() 
+InitGraphics() 
+Finished PrepareGame() 
+Run_Start
+Audio group 1 -> Loading...
+Audio_WAVs()
+Audio group 1 -> Loaded
+audio_create_stream : could not file file 'mus/legend.ogg'
+Error: No sound found for asset index -1
+Resizing swap chain...
+Resizing window...audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/AUDIO_STORY.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/tv_results_screen.ogg'
+Error: No sound found for asset index -1
+audio_create_stream : could not file file 'mus/tv_results_screen.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/tv_world.ogg'
+Error: No sound found for asset index -1
+audio_create_stream : could not file file 'mus/berdly_audience.ogg'
+audio_create_stream : could not file file 'mus/berdly_audience.ogg'
+audio_create_stream : could not file file 'mus/berdly_audience.ogg'
+audio_create_stream : could not file file 'mus/battle.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/berdly_audience.ogg'
+audio_create_stream : could not file file 'mus/berdly_audience.ogg'
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/legend.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/AUDIO_STORY.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/tv_results_screen.ogg'
+Error: No sound found for asset index -1
+audio_create_stream : could not file file 'mus/tv_results_screen.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/tv_world.ogg'
+Error: No sound found for asset index -1
+audio_create_stream : could not file file 'mus/berdly_audience.ogg'
+audio_create_stream : could not file file 'mus/berdly_audience.ogg'
+audio_create_stream : could not file file 'mus/berdly_audience.ogg'
+audio_create_stream : could not file file 'mus/battle.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+audio_destroy_stream : Invalid stream id: -1
+Unsetting previous scheduler resolution of 1

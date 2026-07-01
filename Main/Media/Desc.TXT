@@ -1,0 +1,35 @@
+Equipment Plus is a DELTARUNE mod that aims to tweak existing equipment, re-implement unused items, and add brand new ones!
+Currently, only Chapters 1 & 2 feature these changes. Chapters 3 & 4 are included for compatibility, allowing you to carry over and use the new gear from earlier chapters. 
+As such, they don’t yet have their own additions. We plan to expand into Chapters 3 & 4 in the future, so stay tuned!
+
+FEATURES:
+- Tweaks to existing equipment, such as the Dice Brace and Devilsknife.
+- Re-implementation of unused gear, such as the Trefoil, Mouse Token, etc.
+- Brand new armor, like the RevivePin!
+- More fusions that allow you to craft some of the unused & new equipment!
+- SwallowSword and ClownCollar, new weapons for Kris & Ralsei obtained by beating Jevil.
+- WingCutlass and HeadSmasher, new weapons for Kris & Susie obtained by beating Spamton NEO.
+- Seam's shop updates with loot from each Chapter—if you recruited enough Darkners!
+- A new item...?
+
+
+PLANNED FEATURES:
+- More tweaks to existing gear, like removing the PinkRibbon and TwinRibbon nerfs.
+- Re-implementation of even more unused equipment, such as the Cheer Scarf and Dark (Gold) Band.
+- More original armor-pieces, like the Mana Band!
+- Even MORE fusions for crafting the new equipment!
+- Make the BlackShard be equippable by every party member.
+- A new reward for beating the Hammer of Justice a certain way.
+- Separate version where party members can equip anything, weapons have unique bolt combinations, an unused feature when FIGHTing is brought back.
+
+CREDITS:
+- ThatOneJ: Director, Programming & Writing
+- REALVN: HUGE Programming assistantance & Feedback
+- WildPasta: Writing & Feedback
+- Micro: Feedback & Writing
+
+- Sprwife: New Jevil and Spamton weapons & Feedback
+- Lolchick: Programming assistance
+
+
+
