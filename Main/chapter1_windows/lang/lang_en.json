@@ -6257,5 +6257,6 @@
   "scr_weaponinfo_slash_scr_weaponinfo_gml_241_2": "*jingle* *jingle* What?",
   "scr_weaponinfo_slash_scr_weaponinfo_gml_241_3": "Feels like a *tight* hug!",
   "scr_weaponinfo_slash_scr_weaponinfo_gml_241_4": "Critical TP Up",
-  "scr_litemname_slash_scr_litemname_gml_40_0": "Joker Card"
+  "scr_litemname_slash_scr_litemname_gml_200_0": "Joker Card",
+  "scr_litemuseb_slash_scr_litemuseb_gml_64_0": "* You equipped the Joker Card./%"
 }

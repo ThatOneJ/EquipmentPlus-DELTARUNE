@@ -1129,3 +1129,112 @@ Error: No sound found for asset index -1
 audio_destroy_stream : Invalid stream id: -1
 audio_destroy_stream : Invalid stream id: -1
 Unsetting previous scheduler resolution of 1
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2022.0(3)[r115]    *
+***************************************	 
+RunnerLoadGame: C:\Users\cris_\OneDrive\Área de Trabalho\EquipmentPlus-DELTARUNE\Main\chapter1_windows\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\cris_\OneDrive\Área de Trabalho\EquipmentPlus-DELTARUNE\Main\chapter1_windows\
+#########################################################################
+RunnerLoadGame() - C:\Users\cris_\OneDrive\Área de Trabalho\EquipmentPlus-DELTARUNE\Main\chapter1_windows\MyMod.temp
+YYG Game launching. Game file: C:\Users\cris_\OneDrive\Área de Trabalho\EquipmentPlus-DELTARUNE\Main\chapter1_windows\MyMod.temp
+Checking if INIFile exists at C:\Users\cris_\OneDrive\Área de Trabalho\EquipmentPlus-DELTARUNE\Main\chapter1_windows/options.ini
+INIFile C:\Users\cris_\OneDrive\Área de Trabalho\EquipmentPlus-DELTARUNE\Main\chapter1_windows/options.ini Exists, loading....
+Reading File C:\Users\cris_\OneDrive\Área de Trabalho\EquipmentPlus-DELTARUNE\Main\chapter1_windows\MyMod.temp
+Loaded File C:\Users\cris_\OneDrive\Área de Trabalho\EquipmentPlus-DELTARUNE\Main\chapter1_windows\MyMod.temp(13077100)
+IFF wad found
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\cris_\AppData\Local\DELTARUNE\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Resizing swap chain...
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 0000000002B1F060, 13077100
+Process Chunk: GEN8   784  (0.00MB)
+Process Chunk: OPTN   88  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   8  (0.00MB)
+Process Chunk: SOND   6056  (0.01MB)
+Audio_Load()
+Process Chunk: AGRP   24  (0.00MB)
+AudioGroup_Load()
+Process Chunk: SPRT   147352  (0.14MB)
+Process Chunk: BGND   9608  (0.01MB)
+Process Chunk: PATH   8  (0.00MB)
+Process Chunk: SCPT   8312  (0.01MB)
+Process Chunk: GLOB   1240  (0.00MB)
+Process Chunk: SHDR   8  (0.00MB)
+Process Chunk: FONT   178216  (0.17MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   145784  (0.14MB)
+Process Chunk: FEDS   8  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   24  (0.00MB)
+Process Chunk: ROOM   1866216  (1.78MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: TPAG   78248  (0.07MB)
+Process Chunk: TGIN   4792  (0.00MB)
+Process Chunk: CODE   1658968  (1.58MB)
+Process Chunk: VARI   103640  (0.10MB)
+Process Chunk: FUNC   34200  (0.03MB)
+Process Chunk: FEAT   24  (0.00MB)
+Process Chunk: STRG   523432  (0.50MB)
+Process Chunk: TXTR   1933784  (1.84MB)
+Process Chunk: AUDO   6375940  (6.08MB)
+Audio_WAVs()
+PrepareGame()
+Script_Prepare() 
+TimeLine_Prepare() 
+Object_Prepare() 
+Preparing 354 objects:
+Room_Prepare() 
+InitGraphics() 
+Finished PrepareGame() 
+Run_Start
+Audio group 1 -> Loading...
+Audio_WAVs()
+Audio group 1 -> Loaded
+audio_create_stream : could not file file 'mus/legend.ogg'
+Error: No sound found for asset index -1
+Resizing fullscreen window...Resizing swap chain...
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/AUDIO_STORY.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/wind.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/GALLERY.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/kingboss.ogg'
+Error: No sound found for asset index -1
+Unsetting previous scheduler resolution of 1
