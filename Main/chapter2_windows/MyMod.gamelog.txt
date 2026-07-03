@@ -5884,3 +5884,109 @@ Resizing window...Pause event has been registered for this frame
 Pause event has been unregistered
 Vsync wait times out of bounds - reverting to sleep based timing
 Unsetting previous scheduler resolution of 1
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2022.0(3)[r115]    *
+***************************************	 
+RunnerLoadGame: D:\GitHub\EquipmentPlus-DELTARUNE\Main\chapter2_windows\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - D:\GitHub\EquipmentPlus-DELTARUNE\Main\chapter2_windows\
+#########################################################################
+RunnerLoadGame() - D:\GitHub\EquipmentPlus-DELTARUNE\Main\chapter2_windows\MyMod.temp
+YYG Game launching. Game file: D:\GitHub\EquipmentPlus-DELTARUNE\Main\chapter2_windows\MyMod.temp
+Checking if INIFile exists at D:\GitHub\EquipmentPlus-DELTARUNE\Main\chapter2_windows/options.ini
+INIFile D:\GitHub\EquipmentPlus-DELTARUNE\Main\chapter2_windows/options.ini Exists, loading....
+Reading File D:\GitHub\EquipmentPlus-DELTARUNE\Main\chapter2_windows\MyMod.temp
+Loaded File D:\GitHub\EquipmentPlus-DELTARUNE\Main\chapter2_windows\MyMod.temp(67212136)
+IFF wad found
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\Admin\AppData\Local\DELTARUNE\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Resizing swap chain...
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 0000000002C41060, 67212136
+Process Chunk: GEN8   1312  (0.00MB)
+Process Chunk: OPTN   88  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   56  (0.00MB)
+Process Chunk: SOND   13848  (0.01MB)
+Audio_Load()
+Process Chunk: AGRP   56  (0.00MB)
+AudioGroup_Load()
+Process Chunk: SPRT   444456  (0.42MB)
+Process Chunk: BGND   80728  (0.08MB)
+Process Chunk: PATH   1176  (0.00MB)
+Process Chunk: SCPT   19752  (0.02MB)
+Process Chunk: GLOB   3128  (0.00MB)
+Process Chunk: SHDR   26072  (0.02MB)
+Process Chunk: FONT   251944  (0.24MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   569608  (0.54MB)
+Process Chunk: FEDS   8  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   24  (0.00MB)
+Process Chunk: ROOM   4463144  (4.26MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: TPAG   247976  (0.24MB)
+Process Chunk: TGIN   14152  (0.01MB)
+Process Chunk: CODE   5029736  (4.80MB)
+Process Chunk: VARI   357656  (0.34MB)
+Process Chunk: FUNC   134376  (0.13MB)
+Process Chunk: FEAT   40  (0.00MB)
+Process Chunk: STRG   2007416  (1.91MB)
+Process Chunk: TXTR   4501112  (4.29MB)
+Process Chunk: AUDO   49043936  (46.77MB)
+Audio_WAVs()
+PrepareGame()
+Script_Prepare() 
+TimeLine_Prepare() 
+Object_Prepare() 
+Preparing 1330 objects:
+Room_Prepare() 
+InitGraphics() 
+Finished PrepareGame() 
+Run_Start
+Audio group 1 -> Loading...
+Audio_WAVs()
+Audio group 1 -> Loaded
+Pause event has been registered for this frame
+audio_create_stream : could not file file 'mus/legend.ogg'
+Error: No sound found for asset index -1
+Pause event has been unregistered
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/AUDIO_STORY.ogg'
+Error: No sound found for asset index -1
+audio_destroy_stream : Invalid stream id: -1
+audio_create_stream : could not file file 'mus/mansion_entrance.ogg'
+Error: No sound found for asset index -1
+Pause event has been registered for this frame
+Pause event has been unregistered
+Unsetting previous scheduler resolution of 1
