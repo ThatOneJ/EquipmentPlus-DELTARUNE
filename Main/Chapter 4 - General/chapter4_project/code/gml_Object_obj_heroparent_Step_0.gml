@@ -468,9 +468,9 @@ if (finishattacktimer > 0)
             if (damage > 0)
             {
                 // ClownCollar
-                var mult = 1;
+                var mult = 1 + scr_armorcheck_equipped_party(17) * 0.5 // 1;
                 if (object_index == obj_heroralsei && global.charweapon[3] == 201 && points >= 150)
-                    mult = 2.5;
+                    mult *= 2.5;
                 
                 scr_tensionheal( (round(points / 10)) * mult);
                  

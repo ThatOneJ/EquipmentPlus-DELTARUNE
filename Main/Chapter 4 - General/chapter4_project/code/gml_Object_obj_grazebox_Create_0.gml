@@ -8,6 +8,7 @@ grazetpfactor += (scr_armorcheck_equipped_party(24) * 0.05);
 grazetimefactor += (scr_armorcheck_equipped_party(14) * 0.3);
 grazesizefactor += (scr_armorcheck_equipped_party(3) * 0.2);
 grazesizefactor += (scr_armorcheck_equipped_party(9) * 0.25);
+
 if (grazetimefactor > 3)
     grazetimefactor = 3;
 
