@@ -484,7 +484,7 @@ if (finishattacktimer > 0)
                     if (points >= 150)
                     {
                         snd_play(snd_coin);
-                        global.gold += 100;
+                        global.gold += 200;
                     }
                 }
                 

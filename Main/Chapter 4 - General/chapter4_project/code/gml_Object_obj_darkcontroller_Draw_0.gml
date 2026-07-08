@@ -1092,7 +1092,6 @@ if (global.menuno == 2)
     }
     else
     {
-        draw_text(xx + 230, yy + 230 + (ch_vspace * 0), string(atsum));
         var last_color = draw_get_color();
         var chainmaileq = 0;
         

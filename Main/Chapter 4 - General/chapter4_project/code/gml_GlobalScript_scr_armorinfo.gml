@@ -418,9 +418,9 @@ function scr_armorinfo(arg0)
         case 17:
             armornametemp = stringsetloc("Dark Band", "scr_armorinfo_slash_scr_armorinfo_gml_386_0");
             armordesctemp = stringsetloc("A band that shines in the darkness. More TP#from FIGHTing, DEFENDing and grazing.", "scr_armorinfo_slash_scr_armorinfo_gml_387_0");
-            amessage2temp = stringsetloc(" ", "scr_armorinfo_slash_scr_armorinfo_gml_388_0");
-            amessage3temp = stringsetloc(" ", "scr_armorinfo_slash_scr_armorinfo_gml_389_0");
-            amessage4temp = stringsetloc(" ", "scr_armorinfo_slash_scr_armorinfo_gml_390_0");
+            amessage2temp = stringsetloc("Makes me feel tense.", "scr_armorinfo_slash_scr_armorinfo_gml_388_0");
+            amessage3temp = stringsetloc("W-wow, how exhilarating!", "scr_armorinfo_slash_scr_armorinfo_gml_389_0");
+            amessage4temp = stringsetloc("(Would look cooler with some spikes...)", "scr_armorinfo_slash_scr_armorinfo_gml_390_0");
             armorattemp = 0;
             armordftemp = 0;
             armormagtemp = 0;
@@ -432,7 +432,7 @@ function scr_armorinfo(arg0)
             armorchar3temp = 0;
             armorchar4temp = 0;
             armorabilitytemp = stringsetloc("TPGain+", "scr_armorinfo_slash_scr_armorinfo_gml_401_0");
-            armorabilityicontemp = 7;
+            armorabilityicontemp = 5;
             armoricontemp = 4;
             value = (global.chapter * 200) + ((global.chapter - 1) * 220);
             break;
@@ -857,7 +857,7 @@ function scr_armorinfo(arg0)
             armornametemp = stringsetloc("ManaBand", "scr_armorinfo_slash_scr_armorinfo_gml_746_0");
             armordesctemp = stringsetloc("A silver armlet with shifting flavors.#Increases both strength and magic.", "scr_armorinfo_slash_scr_armorinfo_gml_747_0");
             amessage2temp = stringsetloc("Woah, cool combo.", "scr_armorinfo_slash_scr_armorinfo_gml_748_0");
-            amessage3temp = stringsetloc(" ", "scr_armorinfo_slash_scr_armorinfo_gml_749_0");
+            amessage3temp = stringsetloc("Does it really need the blood flavor?", "scr_armorinfo_slash_scr_armorinfo_gml_749_0");
             amessage4temp = stringsetloc("(Does it really need the yellow one...?)", "scr_armorinfo_slash_scr_armorinfo_gml_750_0");
             armorattemp = 4;
             armordftemp = 0;
