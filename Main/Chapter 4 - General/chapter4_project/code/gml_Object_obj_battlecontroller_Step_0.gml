@@ -252,7 +252,6 @@ if (global.myfight == 0)
             
             if (global.bmenucoord[0][global.charturn] == 0)
                 global.bmenuno = 1;
-            
             if (global.bmenucoord[0][global.charturn] == 1 && global.char[global.charturn] != 1)
             {
                 onebuffer = 1;
@@ -547,10 +546,13 @@ if (global.myfight == 0)
                 
                 if (global.battlespell[thischar][global.bmenucoord[2][global.charturn]] != -1)
                 {
+                    
                     scr_spellinfo(global.battlespell[thischar][global.bmenucoord[2][global.charturn]]);
                     
                     if (spelltarget == 0)
+                    {
                         scr_spellconsumeb();
+                        }
                     
                     if (spelltarget == 1)
                         global.bmenuno = 8;
@@ -687,7 +689,12 @@ if (global.myfight == 0)
             global.bmenuno = 0;
             selnoise = 1;
             scr_iteminfo(tempitem[global.bmenucoord[4][global.charturn]][global.charturn]);
-            
+            with(obj_dw_church_arena)
+            {
+                defendonly = false
+                if global.debug
+                    snd_play(snd_txtsans)
+            }
             if (itemtarget == 0 || itemtarget == 2)
             {
                 var _tensionhealed = 0;
@@ -1049,6 +1056,12 @@ if (global.myfight == 0)
                 
                 if (global.bmenuno == 1)
                 {
+                    with(obj_dw_church_arena)
+                    {
+                        defendonly = false
+                        if global.debug
+                            snd_play(snd_txtsans)
+                    }
                     global.chartarget[global.charturn] = global.bmenucoord[global.bmenuno][global.charturn];
                     global.faceaction[global.charturn] = 1;
                     global.charaction[global.charturn] = 1;
@@ -1093,6 +1106,12 @@ if (global.myfight == 0)
                 {
                     global.chartarget[global.charturn] = global.bmenucoord[global.bmenuno][global.charturn];
                     scr_spellconsumeb();
+                    with(obj_dw_church_arena)
+                    {
+                        defendonly = false
+                        if global.debug
+                            snd_play(snd_txtsans)
+                    }
                 }
                 
                 if (global.bmenuno == 11)
@@ -1158,6 +1177,12 @@ if (global.myfight == 0)
                     global.chartarget[global.charturn] = global.bmenucoord[global.bmenuno][global.charturn];
                     global.charaction[global.charturn] = 2;
                     global.charspecial[global.charturn] = 100;
+                    with(obj_dw_church_arena)
+                    {
+                        defendonly = false
+                        if global.debug
+                            snd_play(snd_txtsans)
+                    }
                     scr_nexthero();
                 }
                 
