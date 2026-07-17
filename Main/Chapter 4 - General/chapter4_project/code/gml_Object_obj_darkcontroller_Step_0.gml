@@ -1311,6 +1311,21 @@ if (global.interact == 5)
                             movenoise = 1;
                             pagemax[1] -= 1;
                         }
+                        scr_armorinfo_all();
+                        
+                        for (var i = 0; i < 48; i += 1)
+                        {
+                            wwho = global.char[global.submenucoord[10]];
+                            
+                            if (global.armor[i] == 11)
+                            {
+                                if (global.submenu == 13 && global.chararmor2[wwho] != 11)
+                                    armordf[i] += 1;
+                                
+                                if (global.submenu == 14 && global.chararmor1[wwho] != 11)
+                                    armordf[i] += 1;
+                            }
+                        }
                     }
                 }
             }
@@ -1363,6 +1378,21 @@ if (global.interact == 5)
                         {
                             pagemax[1] += 1;
                             movenoise = 1;
+                        }
+                        scr_armorinfo_all();
+                        
+                        for (var i = 0; i < 48; i += 1)
+                        {
+                            wwho = global.char[global.submenucoord[10]];
+                            
+                            if (global.armor[i] == 11)
+                            {
+                                if (global.submenu == 13 && global.chararmor2[wwho] != 11)
+                                    armordf[i] += 1;
+                                
+                                if (global.submenu == 14 && global.chararmor1[wwho] != 11)
+                                    armordf[i] += 1;
+                            }
                         }
                     }
                 }
@@ -1488,7 +1518,13 @@ if (global.interact == 5)
                         for (var i = 0; i < 48; i += 1)
                         {
                             if (global.armor[i] == 11)
-                                armordf[i] += 1;
+                            {
+                                if (global.submenu == 13 && global.chararmor2[wwho] != 11)
+                                    armordf[i] += 1;
+                                
+                                if (global.submenu == 14 && global.chararmor1[wwho] != 11)
+                                    armordf[i] += 1;
+                            }
                         }
                         
                         if (wwho == 3 && newequip == 26)
@@ -1555,6 +1591,21 @@ if (global.interact == 5)
                 selectnoise = 1;
                 onebuffer = 2;
                 global.submenu = 12 + global.submenucoord[11];
+                 scr_armorinfo_all();
+                
+                for (var i = 0; i < 48; i += 1)
+                {
+                    wwho = global.char[global.submenucoord[10]];
+                    
+                    if (global.armor[i] == 11)
+                    {
+                        if (global.submenu == 13 && global.chararmor2[wwho] != 11)
+                            armordf[i] += 1;
+                        
+                        if (global.submenu == 14 && global.chararmor1[wwho] != 11)
+                            armordf[i] += 1;
+                    }
+                }
                 scr_dmenu_armor_selection_match();
             }
             
