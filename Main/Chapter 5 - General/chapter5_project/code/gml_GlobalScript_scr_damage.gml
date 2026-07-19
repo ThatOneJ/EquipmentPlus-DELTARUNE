@@ -150,10 +150,10 @@ function scr_damage(arg0 = true)
                 
                 if (global.charaction[target] == 10)
                 {
-                    if (hasDice == false)
-                        tdamage = ceil((2 * tdamage) / 3);
-                    else
-                        tdamage = ceil((4 * tdamage) / 9);
+                    tdamage = ceil((2 * tdamage) / 3);
+                    
+                    if (hasDice)
+                        tdamage = ceil(tdamage * 0.34);
                 }
                 
                 tdamage = ceil(tdamage * scr_element_damage_reduction(__element, global.char[target]));
