@@ -1182,35 +1182,6 @@ function scr_armorinfo(arg0)
             armoricontemp = 4;
             value = 1700;
             break;
-        case 206:
-            armornametemp ="RelueRibbon"
-            armordesctemp = "A purple double ribbon. Inscriptions#make healing moves stronger."
-            amessage2temp = stringsetloc("ABSOLUTELY not.", "scr_armorinfo_slash_scr_armorinfo_gml_645_0");
-            amessage3temp = "Hey guys, I'm Raly"
-            amessage4temp = stringsetloc("Go...  t... team?", "scr_armorinfo_slash_scr_armorinfo_gml_665_0");
-            armorattemp = 0;
-            armordftemp = 5;
-            armormagtemp = 2;
-            armorboltstemp = 0;
-            armorgrazeamttemp = 0;
-            armorgrazesizetemp = 0;
-            armorchar1temp = 1;
-            armorchar2temp = 0;
-            
-            if (global.flag[1404] > 0)
-            {
-                armorchar2temp = 1;
-                amessage2temp = stringsetloc("Hey, ONLY on the arm.", "scr_armorinfo_slash_scr_armorinfo_gml_682_0_b");
-            }
-            
-            armorchar3temp = 1;
-            armorchar4temp = 1;
-            armorabilitytemp = "Heal++"
-            armorabilityicontemp = 7;
-            armoricontemp = 4;
-            value = 1;
-            break;
-        
             
     }
 }

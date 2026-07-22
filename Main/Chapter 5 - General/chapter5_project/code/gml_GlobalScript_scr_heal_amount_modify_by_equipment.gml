@@ -16,11 +16,11 @@ function scr_heal_amount_modify_by_equipment(arg0)
     if (global.chararmor2[global.char[caster]] == 30)
         ___healAdd += ceil(___healAmount / 8);
     
-    // ReluleRibbon
-    if (global.chararmor1[global.char[caster]] == 206)
+    // RelueRibbon
+    if (global.chararmor1[global.char[caster]] == 204)
         ___healAdd += ceil(___healAmount / 4);
     
-    if (global.chararmor2[global.char[caster]] == 206)
+    if (global.chararmor2[global.char[caster]] == 204)
         ___healAdd += ceil(___healAmount / 4);
     
     return ___healAmount + ___healAdd;
