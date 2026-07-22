@@ -1076,6 +1076,28 @@ function scr_weaponinfo(arg0)
             weaponabilitytemp = "DokiDoki";
             value = 0;
             break;
+        case 207:
+            weaponnametemp = "GuildedRose";
+            weapondesctemp = stringsetloc("TBA", "scr_weaponinfo_slash_scr_weaponinfo_gml_791_0");
+            wmessage2temp = stringsetloc("... No.", "scr_weaponinfo_slash_scr_weaponinfo_gml_792_0");
+            wmessage3temp = stringsetloc("Chu! TBA", "scr_weaponinfo_slash_scr_weaponinfo_gml_793_0");
+            wmessage4temp = stringsetloc("(Reminds me of Ms. Alphys...)", "scr_weaponinfo_slash_scr_weaponinfo_gml_794_0");
+            weaponattemp = 10;
+            weapondftemp = 0;
+            weaponmagtemp = 6;
+            weaponboltstemp = 1;
+            weaponstyletemp = "?";
+            weapongrazeamttemp = 0;
+            weapongrazesizetemp = 0;
+            weaponchar1temp = 0;
+            weaponchar2temp = 0;
+            weaponchar3temp = 1;
+            weaponchar4temp = 1;
+            weaponicontemp = 3;
+            weaponabilityicontemp = 15;
+            weaponabilitytemp = "DokiDoki";
+            value = 0;
+            break;
             
     }
 }
