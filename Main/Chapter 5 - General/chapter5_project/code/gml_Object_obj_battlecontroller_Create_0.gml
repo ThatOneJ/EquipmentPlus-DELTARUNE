@@ -292,3 +292,4 @@ if (global.ambush == 2)
 disablesusieralseiattack = false;
 skipsusieturn = false;
 skipralseiturn = false;
+global.turn = 0

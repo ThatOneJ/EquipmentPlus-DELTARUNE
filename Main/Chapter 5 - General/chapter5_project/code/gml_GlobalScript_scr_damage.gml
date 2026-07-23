@@ -136,9 +136,9 @@ function scr_damage(arg0 = true)
                 // Trefoil Luck!
                 if (global.charweapon[chartarget] == 8)
                 {
-                    trefoilluck = floor(random(20));
+                    trefoilluck = floor(random(25));
                     
-                    if (trefoilluck <= 8)
+                    if (trefoilluck <= 10)
                         tdamage = ceil(tdamage / 1.25);
                 }
                 

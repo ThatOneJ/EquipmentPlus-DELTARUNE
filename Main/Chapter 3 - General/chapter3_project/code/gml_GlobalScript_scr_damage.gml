@@ -218,8 +218,12 @@ function scr_damage()
             
                 // Trefoil Luck!
                 if (global.charweapon[chartarget] == 8)
-                    trefoilluck = floor(random(20));
-                
+                {
+                    var trefoilluck = floor(random(25));
+                    
+                    if (trefoilluck <= 10)
+                        tdamage = ceil(tdamage / 1.5);
+                }
                 // Dice Brace Effect
                 var hasDice = false;
                 
@@ -232,9 +236,6 @@ function scr_damage()
                     
                     if (hasDice)
                         tdamage = ceil(tdamage * 0.34);
-                        
-                    if (trefoilluck <= 8)
-                        tdamage = ceil(tdamage / 1.25);
                 }
                 
                 if (shadowmantlereduction == false)

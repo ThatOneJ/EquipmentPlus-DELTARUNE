@@ -38,7 +38,7 @@ if ((gacha_con == 3.5 && i_ex(numentry)) || drawblue)
     var points = stringsetloc("HELD POINTs:", "obj_room_ranking_b_slash_Draw_0_gml_39_0");
     var goldchance = stringsetloc("GOLD CHANCE:", "obj_room_ranking_b_slash_Draw_0_gml_40_0");
     var nogold = false;
-    var remainingSuperPrize = 5 - (global.flag[1177] + global.flag[1178] + global.flag[1179] + global.flag[1180] + global.flag[1181]);
+    var remainingSuperPrize = 6 - (global.flag[1177] + global.flag[1178] + global.flag[1179] + global.flag[1180] + global.flag[1181] + global.flag[2498]);
     
     if (remainingSuperPrize == 0)
         nogold = true;

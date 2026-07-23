@@ -83,6 +83,7 @@ prizeflag[24] = 1181;
 prizeitemid[25] = 101;
 prizeitemtype[25] = "points";
 prizeballcolor[25] = c_yellow;
+//
 prizeitemid[26] = 15;
 prizeitemtype[26] = "weapon";
 prizeballcolor[26] = c_yellow;

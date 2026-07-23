@@ -1271,6 +1271,93 @@ if ((global.mnfight == 2 && timeron == 1) || (i_ex(obj_flowery_enemy) && obj_flo
         {
             alarm[2] = 15;
         }
+        global.turn++
+        var hasChaosSpecs = false
+        if global.chararmor1[1] == 201 || global.chararmor2[1] == 201
+            hasChaosSpecs = true
+        if (scr_havechar("s"))
+        {
+            if (global.chararmor1[2] == 201 || global.chararmor2[2] == 201)
+                hasChaosSpecs = true
+        }
+        
+        if (scr_havechar("r"))
+        {
+            if (global.chararmor1[3] == 201 || global.chararmor2[3] == 201)
+                hasChaosSpecs = true
+        }
+        
+        if (scr_havechar("n"))
+        {
+            if (global.chararmor1[4] == 201 || global.chararmor2[4] == 201)
+                hasChaosSpecs = true
+        }
+        if (global.turn + 1) % 2 == 0 && hasChaosSpecs
+        {
+            swap1 = 1;
+            swap2 = 1;
+            swap1 = choose(2, 3);
+            
+            if (swap1 == 2)
+                swap2 = 3;
+            
+            if (swap1 == 3)
+                swap2 = 2;
+            
+            for (i = 0; i < 4; i += 1)
+            {
+                remhp[i] = global.hp[i];
+                curmaxhp[i] = global.maxhp[i];
+            }
+            
+            global.maxhp[1] = curmaxhp[swap1];
+            global.maxhp[swap1] = curmaxhp[swap2];
+            global.maxhp[swap2] = curmaxhp[1];
+            global.hp[1] = remhp[swap1];
+            global.hp[swap1] = remhp[swap2];
+            global.hp[swap2] = remhp[1];
+            remhpcolor[0] = obj_battlecontroller.hpcolor[0];
+            remhpcolor[1] = obj_battlecontroller.hpcolor[1];
+            remhpcolor[2] = obj_battlecontroller.hpcolor[2];
+            obj_battlecontroller.hpcolor[0] = remhpcolor[swap1 - 1];
+            obj_battlecontroller.hpcolor[swap1 - 1] = remhpcolor[swap2 - 1];
+            obj_battlecontroller.hpcolor[swap2 - 1] = remhpcolor[0];
+            
+            //for (i = 1; i <= 3; i += 1)
+            //{
+            //    if (global.hp[i] < 1)
+            //    {
+            //        global.hp[1] += floor(global.hp[i] / 3);
+            //        global.hp[2] += floor(global.hp[i] / 3);
+            //        global.hp[3] += floor(global.hp[i] / 3);
+            //        global.hp[i] = 1;
+            //    }
+            //}
+            
+            //if (global.hp[1] < 1)
+            //    global.hp[1] = 1;
+            
+            //if (global.hp[2] < 1)
+            //    global.hp[2] = 1;
+            
+            //if (global.hp[3] < 1)
+            //    global.hp[3] = 1;
+            if global.hp[global.char[0]] > 0
+                scr_revive(0);
+            else
+                scr_dead(0)
+                
+            if global.hp[global.char[1]] > 0
+                scr_revive(1);
+            else
+                scr_dead(1)
+                
+            if global.hp[global.char[2]] > 0
+                scr_revive(2);
+            else
+                scr_dead(2)
+            snd_play(snd_weirdeffect);
+        }
     }
 }
 
